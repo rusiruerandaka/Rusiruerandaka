@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ghost, React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rusiruerandaka?tab=repositories](https://github.com/rusiruerandaka?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/rusiruerandaka](https://github.com/rusiruerandaka)
 
 - 💬 Ask me about **HTML, Css, Wordpress**
 
