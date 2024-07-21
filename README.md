@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/r_erandaka" target="blank"><img src="https://img.shields.io/twitter/follow/r_erandaka?logo=twitter&style=for-the-badge" alt="r_erandaka" /></a> </p>
 
-- 🔭 I’m currently working on **carpark management system**
+- 🔭 I’m currently working on **Netflix Spring Boot Application**
 
-- 🌱 I’m currently learning **ghost, React.js**
+- 🌱 I’m currently learning **Spring Boot, React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rusiruerandaka](https://github.com/rusiruerandaka)
 
