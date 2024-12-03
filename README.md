@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/r_erandaka" target="blank"><img src="https://img.shields.io/twitter/follow/r_erandaka?logo=twitter&style=for-the-badge" alt="r_erandaka" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix Spring Boot Application**
+- 🔭 I’m currently working on **Instagram Clone Application**
 
 - 🌱 I’m currently learning **Spring Boot, React.js**
 
